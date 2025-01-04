@@ -1,6 +1,6 @@
 # Movie Browser App
 ## Application
-Movie browsing and rating app. Besides browsing movies, the application allows users to rate movies as the best ones. This helps users quickly find their favorite movies and avoid dilemmas when filtering out mediocre and poor productions, for example, when recommending something to their friends.
+Movie browsing and rating app for android on flutter. Besides browsing movies, the application allows users to rate movies as the best ones. This helps users quickly find their favorite movies and avoid dilemmas when filtering out mediocre and poor productions, for example, when recommending something to their friends.
 
 
 ## Getting Started
