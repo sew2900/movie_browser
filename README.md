@@ -29,9 +29,9 @@ sh \
 flutter run
 
 ## Detailed functionalities:
-### User Interface (UI) \
-The application has a minimalist style and list-like layout, ensuring responsiveness in both portrait and landscape modes. \
-\
+### User Interface (UI) 
+The application has a minimalist style and list-like layout, ensuring responsiveness in both portrait and landscape modes. 
+
 ### Portrait Mode: 
 ![image](https://github.com/user-attachments/assets/07ea5071-612c-412a-8183-2b0b4838e19c)
 
@@ -91,7 +91,7 @@ Animated Transitions: Enhances the user experience with engaging animations. \
 -Error handling (e.g., no internet, server errors). \
 **Local Database** \
 -Storing user data locally with SQLite. \
--Ability to save and read data offline. \
+-Ability to save and read data offline. 
 **Authorization** \
 -User login and registration functionality using a local database. \
 **Dark Mode Support** \
